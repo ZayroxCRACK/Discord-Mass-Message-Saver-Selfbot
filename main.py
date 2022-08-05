@@ -30,9 +30,6 @@ try:
 except:
     pass
 
-token = "OTgxMjA2NTU5MzU3MDE0MDI2.GPkr3P.mr3CjL4PCFxZ5uSVa9n3yMzpiKvbDg0-SmrMvM"
-
-
 
 try:
     error = False
